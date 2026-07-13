@@ -1,0 +1,2 @@
+I have created a developer conference landing page with a hero section, speakers section, and pricing section. Suggest a relevant section that should appear next and generate its HTML structure with suitable content while keeping the design consistent.
+Based on the current layout of my conference website, create one additional section that improves the user experience. Make sure the section fits naturally below the pricing cards and follows the same color palette and typography.
